@@ -1,0 +1,4 @@
+#ignore these files
+*.log
+*~
+Phylogenetic_Tree/05tree/
