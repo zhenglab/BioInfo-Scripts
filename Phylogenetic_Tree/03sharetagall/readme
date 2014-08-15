@@ -1,3 +1,0 @@
-#03sharetagall 程序对ustacks的输出文件allinone.tags.tsv文件进行处理
-#第一步step1:去掉无关标记和符号，只保留序列信息
-#第二部step2:去掉每个consensus下物种数不足12的consensus，只保留大于12的consensus
