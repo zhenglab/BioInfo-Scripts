@@ -1,4 +1,10 @@
 #ignore these files
 *.log
 *~
-Phylogenetic_Tree/05tree/
+*.swp
+DrawPhylogeneticTree/01*/
+DrawPhylogeneticTree/02*/
+DrawPhylogeneticTree/03*/
+DrawPhylogeneticTree/04*/
+DrawPhylogeneticTree/05*/
+DrawPhylogeneticTree/snp/
